@@ -1,0 +1,42 @@
+// 重置样式
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  outline: none;
+}
+
+ul {
+  list-style: none;
+}
+
+
+i {
+  font-style: normal;
+}
+
+ul {
+  list-style: none;
+}
+
+
+.icon {
+  width: .4rem;
+  height: .4rem;
+  overflow: hidden;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
